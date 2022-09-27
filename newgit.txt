@@ -1,0 +1,3 @@
+hi hello 
+you are new first time git file
+i am me
